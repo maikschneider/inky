@@ -10,7 +10,7 @@ A PHP Implementation of ZURB's Foundation for Email parser ([Inky](https://githu
 
 You can install this bundle using composer
 
-    composer require hampe/inky
+    composer require maikschneider/inky
 
 or add the package to your `composer.json` file directly.
 
